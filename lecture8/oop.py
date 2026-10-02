@@ -119,6 +119,7 @@ class Account:
 b1=Account(1122,2000)
 
 b1.debit(1200)
+b1.credit(300)
 
     
 
