@@ -62,5 +62,5 @@
 #     print(data)
 
 
-import os
-os.remove(r"C:\Users\ja773\OneDrive\文档\Ai Engineering\sample.txt")
+# import os
+# os.remove(r"C:\Users\ja773\OneDrive\文档\Ai Engineering\sample.txt")
