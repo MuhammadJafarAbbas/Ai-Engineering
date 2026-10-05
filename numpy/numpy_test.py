@@ -31,5 +31,30 @@ list1=[1,2,3]
 
 
 #array initialization method
-zero_arr=np.zeros((2,3))
-print(zero_arr)
+# zero_arr=np.zeros((2,3))
+# print(zero_arr)
+
+# one_arr=np.ones((2,3))
+# print(one_arr)
+
+#full array
+# full_arr=np.full((3,4),7)
+# print(full_arr)
+
+#identity matrix
+# id_arr=np.eye(3)
+# print(id_arr)
+
+#empty array
+# print(np.empty(3))
+
+#evenly spaced array
+# print(np.arange(1,8,2))
+
+#code with harry
+#conversion from other pythn stucture
+arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
+print(arr)
+
+
+
