@@ -53,8 +53,46 @@ list1=[1,2,3]
 
 #code with harry
 #conversion from other pythn stucture
-arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
+# arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
+# print(arr)
+# print(arr.size)
+# print(arr.dtype)
+# print(arr.shape)
+
+#arrange()
+# range=np.arange(2,9) #n-1
+# print(range)
+
+
+# linear_space=np.linspace(2,10,4)
+# print(linear_space)
+
+
+# arr=np.array([6,8,9,10])
+# print(arr.sum(axis=0))
+
+# arr=np.array([[1,2,3],[4,6,8],[1,1,1]])
+# print(arr)
+# print(arr.sum(axis=0))
+# print(arr.sum(axis=1))
+# #to convert rows into columns
+# print(arr.T)
+
+
+#methods
+# arr=np.array([1,245,3,4,5,6])
+# print(arr.argmax())
+# print(arr.argmin())
+# print(arr.argsort())
+
+
+arr=np.array([[1,2,3],[4,7,6],[9,1,4]])
 print(arr)
+print(arr.argmax(axis=0))
+print(arr.argmin(axis=1))
 
-
+arr1=np.array([[1,2,3],[4,5,6],[4,3,2]])
+print(arr1)
+print(arr+arr1)
+print(arr*arr1)
 
