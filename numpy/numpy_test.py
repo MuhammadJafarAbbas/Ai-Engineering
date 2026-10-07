@@ -86,13 +86,15 @@ list1=[1,2,3]
 # print(arr.argsort())
 
 
-arr=np.array([[1,2,3],[4,7,6],[9,1,4]])
-print(arr)
-print(arr.argmax(axis=0))
-print(arr.argmin(axis=1))
+# arr=np.array([[1,2,3],[4,7,6],[9,1,4]])
+# print(arr)
+# print(arr.argmax(axis=0))
+# print(arr.argmin(axis=1))
 
-arr1=np.array([[1,2,3],[4,5,6],[4,3,2]])
-print(arr1)
-print(arr+arr1)
-print(arr*arr1)
+# arr1=np.array([[1,2,3],[4,5,6],[4,3,2]])
+# print(arr1)
+# print(arr+arr1)
+# print(arr*arr1)
+
+
 
