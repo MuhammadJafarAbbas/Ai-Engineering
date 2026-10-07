@@ -94,7 +94,6 @@ list1=[1,2,3]
 # arr1=np.array([[1,2,3],[4,5,6],[4,3,2]])
 # print(arr1)
 # print(arr+arr1)
-# print(arr*arr1)
-
+# print(arr*arr1);
 
 
